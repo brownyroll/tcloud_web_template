@@ -34,7 +34,7 @@ header("refresh: 3; url=/zabbix"); ?>
 </head>
 <body>
     <img src="https://www.tcloud.in.th/wp-content/uploads/2024/09/Logo-T.Cloud-Gen3-768x516.png" alt="Logo">
-    <p><strong>Tcloud Gen 3</strong></p>
+    <p><b>Tcloud Gen 3</b></p>
     <p>กำลังพาไปที่ <strong>/zabbix</strong> ภายใน 3 วินาที...</p>
 </body>
 </html>
